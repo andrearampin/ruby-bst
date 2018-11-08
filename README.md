@@ -19,3 +19,10 @@ Binary search trees keep their keys in sorted order, so that lookup and other op
 |Delete|O(log n)|O(n)|
 
 *ref: [https://en.wikipedia.org/wiki/Binary_search_tree](https://en.wikipedia.org/wiki/Binary_search_tree)*
+
+### Run
+```
+$ ruby main.rb
+1, 2, 3, 4, 5, 8, 23, 76
+1, 3, 4, 5, 8, 76
+```
